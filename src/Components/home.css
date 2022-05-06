@@ -1,0 +1,48 @@
+.main__container{
+    height: 95vh;
+    color: black;
+    background-color: #EDF9F6;
+    width: 600px;
+    margin-top: 20px;
+    margin-left: 20px;
+    padding: 10px;
+
+}
+.main__container > i{
+    font-weight: 700;
+    padding: 10px;
+}
+.main__container > h6{
+    font-weight: 700;
+    padding: 10px;
+}
+.main__container > h7{
+    font-weight: 750;
+    padding: 20px;
+}
+.main__container > label{
+    font-weight: 750;
+    padding: 20px;
+}
+.main__container > input{
+    font-weight: 700;
+    margin-left: 20px;
+} 
+.main__container > a{
+    font-weight: 350;
+    padding: 20px;
+}
+.container > h6{
+    width: 600px;
+    margin-top: 20px;
+    padding-top: 0px;
+}
+
+.container{
+    margin-left: 0px;
+}
+.clear-btn{
+    padding-left: 100px;
+}
+
+ 
